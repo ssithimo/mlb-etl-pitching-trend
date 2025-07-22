@@ -58,4 +58,5 @@ Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/
 Sam Sithimolada
 📧 [Email](mailto:sam.sithimolada.2024@marshall.usc.edu)
 🔗 [LinkedIn](linkedin.com/in/SamSithimolada)
+[GitHub](https://github.com/ssithimio)
 
