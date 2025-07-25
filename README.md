@@ -1,6 +1,6 @@
-# ⚾ MLB Pitching Data ETL & Velocity Trend Analysis
+# ⚾ MLB Pitching Data ELT & Velocity Trend Analysis
 
-This project builds a complete ETL pipeline to collect, store, and analyze MLB pitch-level data using the `pybaseball` library. Data is ingested into a PostgreSQL database and analyzed using Python, with a case study focused on Yoshinobu Yamamoto’s pitch velocity trends.
+This project builds a complete ELT pipeline to collect, store, and analyze MLB pitch-level data using the `pybaseball` library. Data is ingested into a PostgreSQL database and analyzed using Python, with a case study focused on Yoshinobu Yamamoto’s pitch velocity trends.
 
 Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/07/2025
 
@@ -17,7 +17,7 @@ Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/
 
 ## 🚀 Features
 
-✅ ETL Pipeline for Pitching Data
+✅ ELT Pipeline for Pitching Data
 - Extracts pitch-by-pitch MLB data using pybaseball
 - Selects 30+ relevant features for pitching analysis
 - Loads cleaned data into a PostgreSQL database using SQLAlchemy
@@ -32,7 +32,7 @@ Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/
 - Engineers a new pitch_at_bat_number field to sequentially number batters he faced
 
 ⏰ Scheduled Updates
-- Supports automated weekly ETL using cron
+- Supports automated weekly ELT using cron
 
 ---
 
