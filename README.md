@@ -32,7 +32,7 @@ Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/
 - Engineers a new pitch_at_bat_number field to sequentially number batters he faced
 
 ⏰ Scheduled Updates
-- Supports automated weekly ELT using cron
+- Supports automated weekly ELT using launchd on MacOS
 
 ---
 
