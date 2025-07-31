@@ -11,7 +11,7 @@ Due to limited capacity, only a weeks worth of data was loaded. 07/01/2025 - 07/
 - **Languages:** Python, SQL
 - **Libraries:** pybaseball, pandas, SQLAlchemy, matplotlib, seaborn, dotenv
 - **Database:** PostgreSQL (local)
-- **Automation:** Cron (for scheduled updates)
+- **Automation:** launchd (for scheduled updates)
 
 ---
 
