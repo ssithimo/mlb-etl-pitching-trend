@@ -11,3 +11,16 @@ The launchd plist script will:
 - Append info to your etl_output.log and etl_dates.log
 
 - The logs will accumulate each day — not be overwritten
+
+
+You will also need to create a .env file in the same path as the pyscript with the following variable:
+
+DATABASE_URL = postgresql://username:password@host:port/dbname
+
+where you'll replace the following to connect to you postgreSQL server:
+
+- username
+- password
+- host
+- port
+- dbname
